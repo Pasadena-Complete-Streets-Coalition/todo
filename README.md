@@ -17,5 +17,5 @@ This repo can be used to track activities for Pasadena CSC
 
 ### Milestones can be used to group issues
 1. Click on [issues](https://github.com/Pasadena-Complete-Streets-Coalition/todo/issues) in the menu bar
-2. Click on Milestones to see milestones.
+2. Click on [Milestones](https://github.com/Pasadena-Complete-Streets-Coalition/todo/milestones) to see milestones.
 3. Any issue can be assigned to a milestone
