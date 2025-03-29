@@ -11,6 +11,11 @@ This repo can be used to track activities for Pasadena CSC
 3. You should get an email invitation to join the repo.  Follow instructions to join.
 
 ### Look at open to-do list
-1. Each "issue" is an open to-do item
-2. Click on "Issues" in the menu at the top to browse open items
-3. Click on an issue to see more details.  You can add notes to the issue just by clicking on the notes field.  
+1. Browse issues by clicking on [issues](https://github.com/Pasadena-Complete-Streets-Coalition/todo/issues) in the menu at the top.
+2. Each "issue" is an open to-do item
+3. Click on an issue to see more details.  You can add notes to the issue just by clicking on the notes field.
+
+### Milestones can be used to group issues
+1. Click on [issues](https://github.com/Pasadena-Complete-Streets-Coalition/todo/issues) in the menu bar
+2. Click on Milestones to see milestones.
+3. Any issue can be assigned to a milestone
